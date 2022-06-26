@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WarnnerSinotti
 - 👀 I’m interested in Qa Developer, WebdriverIO, Appium, React Native.
 - 🌱 I’m currently learning Jenkins, Jmeter and React Native
-- 💞️ I’m looking to collaborate on my first App - Guia do QA
+- 💞️ I’m looking to collaborate on my first App - My Pet Fav 
 - 📫 How to reach me https://www.linkedin.com/in/warnner-sinotti-529a52131/ ...
 
 <!---
