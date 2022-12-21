@@ -3,6 +3,9 @@
 - 👀 Estou estudando para o aperfeiçoamento profissional com React native, Jest e AWS
 
 
+
+
+
 <b>Social</b>
 
  <a href="https://github.com/WarnnerSinotti"  target="_blank" rel="noopener noreferrer">
@@ -63,9 +66,10 @@
   </a>
 
 
-  
-  
-  
+  <b>Games</b>
+  <a>
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=warnnersinotti&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+</a>
 
 
 
