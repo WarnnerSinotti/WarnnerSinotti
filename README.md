@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 
-<b>Skills</b>
+<b>Habilidades</b>
 
  <a href=""  target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" height="25" alt="Git logo" />
@@ -41,7 +41,7 @@
   
 
  
-  <b>Studies</b>
+  <b>Estudos</b>
 
  <a href=""  target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25" alt="React Native logo" />
@@ -56,7 +56,7 @@
   </a>
   
   
-<b>GAMES</b>
+<b>Games</b>
 
   <a href=""  target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" height="25" alt="Playstation 5" />
