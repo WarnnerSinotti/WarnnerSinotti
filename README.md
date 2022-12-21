@@ -1,20 +1,72 @@
-- 👋 Hi, I’m @WarnnerSinotti
-- 👀 I’m interested in Qa Developer, WebdriverIO, Cypress, Appium, React Native.
-- 🌱 I’m currently learning React Native and Jest
-- 💞️ I’m looking to collaborate on my first App - My Pet Fav 
-- 📫 How to reach me https://www.linkedin.com/in/warnner-sinotti-529a52131/ ...
+- 👋 Ei, Sou @WarnnerSinotti, QA Developer
+- 🌱 Desenvolvedor de testes automatizados com Cypress, WebdriverIO, Selenium, Appium, Postman...
+- 👀 Estou estudando para o aperfeiçoamento profissional com React native, Jest e AWS
 
-<!---
-WarnnerSinotti/WarnnerSinotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
- 
-  <a href="https://www.linkedin.com/in/warnner-sinotti-529a52131/"  target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+<b>Social</b>
+
+ <a href="https://github.com/WarnnerSinotti"  target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Github logo" />
   </a>
 
 <a href="https://gitlab.com/warnner.sinotti"  target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" height="35" alt="Gitlab logo" />
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" height="25" alt="Gitlab logo" />
   </a>
+
+  <a href="https://www.linkedin.com/in/warnner-sinotti-529a52131/"  target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+
+<b>Skills</b>
+
+ <a href=""  target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" height="25" alt="Git logo" />
+  </a>
+  
+ <a href=""  target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25" alt="Node logo" />
+  </a>
+
+<a href="h"  target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25" alt="Typescript logo" />
+  </a>
+
+ <a href=""  target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white" height="25" alt="Jenkins logo" />
+  </a>
+  
+  <a href=""  target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25" alt="Amazon Aws logo" />
+  </a>
+  
+
+ 
+  <b>Studies</b>
+
+ <a href=""  target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25" alt="React Native logo" />
+  </a>
+
+<a href=""  target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="25" alt="Redux" />
+  </a>
+  
+  <a href=""  target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25" alt="MongoDB" />
+  </a>
+  
+  
+<b>GAMES</b>
+
+  <a href=""  target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" height="25" alt="Playstation 5" />
+  </a>
+
+
+  
+  
+  
+
+
+
 
