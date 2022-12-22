@@ -22,7 +22,7 @@
 
 <b>Habilidades</b>
 
- <a href=""  target="_blank" rel="noopener noreferrer">
+ <a href="/" onclick="return false;">
     <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" height="25" alt="Git logo" />
   </a>
   
