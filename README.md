@@ -22,49 +22,49 @@
 
 <b>Habilidades</b>
 
- <a href="/" onclick="return false;">
+<div> 
+ <a>
     <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" height="25" alt="Git logo" />
   </a>
   
- <a href=""  target="_blank" rel="noopener noreferrer">
+<a>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25" alt="Node logo" />
   </a>
 
-<a href="h"  target="_blank" rel="noopener noreferrer">
+<a>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25" alt="Typescript logo" />
   </a>
 
- <a href=""  target="_blank" rel="noopener noreferrer">
+<a>
     <img src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white" height="25" alt="Jenkins logo" />
   </a>
   
-  <a href=""  target="_blank" rel="noopener noreferrer">
+  <a>
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25" alt="Amazon Aws logo" />
   </a>
-  
+  </div>
 
  
   <b>Estudos</b>
-
- <a href=""  target="_blank" rel="noopener noreferrer">
+  <div>
+<a>
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25" alt="React Native logo" />
   </a>
 
-<a href=""  target="_blank" rel="noopener noreferrer">
+<a>
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="25" alt="Redux" />
   </a>
-  
-  <a href=""  target="_blank" rel="noopener noreferrer">
+<a>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25" alt="MongoDB" />
   </a>
-  
+  </div>
   
 <b>Games</b>
-
-  <a href=""  target="_blank" rel="noopener noreferrer">
+<div>
+<a>
     <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" height="25" alt="Playstation 5" />
   </a>
-
+</div>
 
   <b>Linguagens</b>
  
