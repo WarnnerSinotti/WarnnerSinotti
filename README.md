@@ -1,6 +1,6 @@
 - 👋 Ei, Sou @WarnnerSinotti, QA Developer
-- 🌱 Desenvolvedor de testes automatizados com Cypress, WebdriverIO, Selenium, Appium, Postman...
-- 👀 Estou estudando para o aperfeiçoamento profissional com React native, Jest e AWS
+- 🌱 Desenvolvedor de testes automatizados Web, Mobile, Api e Performance/stress.
+- 👀 Estou estudando para o aperfeiçoamento profissional com Gcloud e K6.
 
 
 
