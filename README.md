@@ -1,8 +1,5 @@
 - 👋 Ei, Sou @WarnnerSinotti, QA Developer
 - 🌱 Desenvolvedor de testes automatizados Web, Mobile, Api e Performance/stress.
-- 👀 Estou estudando para o aperfeiçoamento profissional com Gcloud e K6.
-
-
 
 
 
@@ -44,20 +41,6 @@
   </a>
   </div>
 
- 
-  <b>Estudos</b>
-  <div>
-<a>
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25" alt="React Native logo" />
-  </a>
-
-<a>
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="25" alt="Redux" />
-  </a>
-<a>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25" alt="MongoDB" />
-  </a>
-  </div>
   
 <b>Games</b>
 <div>
@@ -68,8 +51,7 @@
 
   <b>Linguagens</b>
  
- [![card](https://github-readme-stats.vercel.app/api?username=warnnersinotti&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- 
+
 [![warnnersinotti](https://github-readme-stats.vercel.app/api/top-langs/?username=warnnersinotti&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
