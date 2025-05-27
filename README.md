@@ -1,5 +1,6 @@
 - 👋 Ei, Sou @WarnnerSinotti, QA Developer
 - 🌱 Desenvolvedor de testes automatizados Web, Mobile, Api e Performance/stress.
+- 🚀 Especialista em ferramentas como Cypress, WebdriverIO, Playwright e K6 para garantir qualidade e confiabilidade em aplicações.
 
 
 
