@@ -38,8 +38,7 @@
 
 <b>Contribuição</b>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=warnnersinotti&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=warnnersinotti&theme=merko&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 ---
 
 <b>Linguagens</b>
