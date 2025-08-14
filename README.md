@@ -1,6 +1,18 @@
-- 👋 Ei, Sou @WarnnerSinotti, QA Developer  
-- 🌱 Desenvolvedor de testes automatizados Web, Mobile, API e Performance/stress.  
-- 🚀 Especialista em ferramentas como Cypress, WebdriverIO, Playwright e K6 para garantir qualidade e confiabilidade em aplicações.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="250px"  align="right">
+
+
+<p align="left"> 
+  👋  Ei, Sou @WarnnerSinotti, QA Developer  
+</p>
+
+<p align="left">
+💻  Desenvolvedor de testes automatizados Web, Mobile, API e Performance/stress.  
+</p>
+
+<p align="left">
+ 🚀  Especialista em ferramentas como Cypress, WebdriverIO, Playwright e K6 para garantir qualidade e confiabilidade em aplicações.
+</p>
+
 
 ---
 
